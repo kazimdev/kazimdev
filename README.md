@@ -8,7 +8,7 @@ Dedicated to mastering the ever-evolving realm of software development and looki
 ### Skills & Experience:
 ✔ PHP / Laravel / WordPress  <br>
 ✔ JavaScript / TypeScript / React.JS / Next.JS <br>
-✔ MySQL / MongoDB / PostgreSQL
+✔ MySQL / MongoDB / PostgreSQL <br>
 ✔ HTML / CSS / Tailwind <br>
 ✔ MERN Stack Development <br>
 
